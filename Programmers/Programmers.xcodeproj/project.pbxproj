@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		A3186F67290F902E0008B83D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3186F66290F902E0008B83D /* main.swift */; };
 		A3186F6F290F90580008B83D /* Budget.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3186F6E290F90580008B83D /* Budget.swift */; };
+		A3186F71290F925C0008B83D /* Decimal.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3186F70290F925C0008B83D /* Decimal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		A3186F63290F902E0008B83D /* Programmers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3186F66290F902E0008B83D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A3186F6E290F90580008B83D /* Budget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Budget.swift; sourceTree = "<group>"; };
+		A3186F70290F925C0008B83D /* Decimal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Decimal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 			isa = PBXGroup;
 			children = (
 				A3186F6E290F90580008B83D /* Budget.swift */,
+				A3186F70290F925C0008B83D /* Decimal.swift */,
 			);
 			path = Level1;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3186F71290F925C0008B83D /* Decimal.swift in Sources */,
 				A3186F6F290F90580008B83D /* Budget.swift in Sources */,
 				A3186F67290F902E0008B83D /* main.swift in Sources */,
 			);
