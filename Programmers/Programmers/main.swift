@@ -17,6 +17,10 @@ import Foundation
 
 // MARK: - 햄버거 만들기
 
-let result = Hamburger().solution([2, 1, 1, 2, 3, 1, 2, 3, 1])
+// let result = Hamburger().solution([2, 1, 1, 2, 3, 1, 2, 3, 1])
+
+// MARK: - 짝수와 홀수
+
+let result = EvenAndOdd().solution(0)
 
 print(result)
