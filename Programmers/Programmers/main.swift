@@ -29,6 +29,10 @@ import Foundation
 
 // MARK: - 평균 구하기
 
-let result = Average().solution([1, 2, 3, 4, -1000])
+// let result = Average().solution([1, 2, 3, 4, -1000])
+
+// MARK: - 자릿수 더하기
+
+let result = AddDigits().solution(987)
 
 print(result)
