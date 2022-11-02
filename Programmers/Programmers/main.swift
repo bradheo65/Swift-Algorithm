@@ -21,6 +21,10 @@ import Foundation
 
 // MARK: - 짝수와 홀수
 
-let result = EvenAndOdd().solution(0)
+// let result = EvenAndOdd().solution(0)
+
+// MARK: - 약수의 합
+
+let result = SomeOfFactors().solution(0)
 
 print(result)
