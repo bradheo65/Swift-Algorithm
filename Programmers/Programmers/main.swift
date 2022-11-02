@@ -25,6 +25,10 @@ import Foundation
 
 // MARK: - 약수의 합
 
-let result = SomeOfFactors().solution(0)
+// let result = SomeOfFactors().solution(0)
+
+// MARK: - 평균 구하기
+
+let result = Average().solution([1, 2, 3, 4, -1000])
 
 print(result)

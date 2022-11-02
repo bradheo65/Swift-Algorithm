@@ -13,6 +13,7 @@
 		A3B4377C2910AE9C00EBE14B /* Hamburger.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3B4377B2910AE9C00EBE14B /* Hamburger.swift */; };
 		A3FC93B3291201A200D09141 /* EvenAndOdd .swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC93B2291201A200D09141 /* EvenAndOdd .swift */; };
 		A3FC93B52912047800D09141 /* SumOfFactors .swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC93B42912047800D09141 /* SumOfFactors .swift */; };
+		A3FC93B729120C2500D09141 /* Average.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC93B629120C2500D09141 /* Average.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		A3B4377B2910AE9C00EBE14B /* Hamburger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hamburger.swift; sourceTree = "<group>"; };
 		A3FC93B2291201A200D09141 /* EvenAndOdd .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EvenAndOdd .swift"; sourceTree = "<group>"; };
 		A3FC93B42912047800D09141 /* SumOfFactors .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SumOfFactors .swift"; sourceTree = "<group>"; };
+		A3FC93B629120C2500D09141 /* Average.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Average.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				A3B4377B2910AE9C00EBE14B /* Hamburger.swift */,
 				A3FC93B2291201A200D09141 /* EvenAndOdd .swift */,
 				A3FC93B42912047800D09141 /* SumOfFactors .swift */,
+				A3FC93B629120C2500D09141 /* Average.swift */,
 			);
 			path = Level1;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 				A3FC93B52912047800D09141 /* SumOfFactors .swift in Sources */,
 				A3186F71290F925C0008B83D /* Decimal.swift in Sources */,
 				A3FC93B3291201A200D09141 /* EvenAndOdd .swift in Sources */,
+				A3FC93B729120C2500D09141 /* Average.swift in Sources */,
 				A3186F6F290F90580008B83D /* Budget.swift in Sources */,
 				A3186F67290F902E0008B83D /* main.swift in Sources */,
 				A3B4377C2910AE9C00EBE14B /* Hamburger.swift in Sources */,
