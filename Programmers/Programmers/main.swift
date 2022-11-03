@@ -33,6 +33,10 @@ import Foundation
 
 // MARK: - 자릿수 더하기
 
-let result = AddDigits().solution(987)
+// let result = AddDigits().solution(987)
+
+// MARK: - 자연수 뒤집어 배열로 만들기
+
+let result = Reverse().solution(12345)
 
 print(result)

@@ -15,6 +15,7 @@
 		A3FC93B52912047800D09141 /* SumOfFactors .swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC93B42912047800D09141 /* SumOfFactors .swift */; };
 		A3FC93B729120C2500D09141 /* Average.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC93B629120C2500D09141 /* Average.swift */; };
 		A3FC93B92912412400D09141 /* AddDigits .swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC93B82912412400D09141 /* AddDigits .swift */; };
+		A3FC93BB29134EFE00D09141 /* Reverse.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC93BA29134EFE00D09141 /* Reverse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		A3FC93B42912047800D09141 /* SumOfFactors .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SumOfFactors .swift"; sourceTree = "<group>"; };
 		A3FC93B629120C2500D09141 /* Average.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Average.swift; sourceTree = "<group>"; };
 		A3FC93B82912412400D09141 /* AddDigits .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AddDigits .swift"; sourceTree = "<group>"; };
+		A3FC93BA29134EFE00D09141 /* Reverse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reverse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				A3FC93B42912047800D09141 /* SumOfFactors .swift */,
 				A3FC93B629120C2500D09141 /* Average.swift */,
 				A3FC93B82912412400D09141 /* AddDigits .swift */,
+				A3FC93BA29134EFE00D09141 /* Reverse.swift */,
 			);
 			path = Level1;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 				A3186F71290F925C0008B83D /* Decimal.swift in Sources */,
 				A3FC93B3291201A200D09141 /* EvenAndOdd .swift in Sources */,
 				A3FC93B729120C2500D09141 /* Average.swift in Sources */,
+				A3FC93BB29134EFE00D09141 /* Reverse.swift in Sources */,
 				A3186F6F290F90580008B83D /* Budget.swift in Sources */,
 				A3186F67290F902E0008B83D /* main.swift in Sources */,
 				A3B4377C2910AE9C00EBE14B /* Hamburger.swift in Sources */,
