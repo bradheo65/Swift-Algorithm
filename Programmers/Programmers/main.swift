@@ -37,6 +37,10 @@ import Foundation
 
 // MARK: - 자연수 뒤집어 배열로 만들기
 
-let result = Reverse().solution(12345)
+// let result = Reverse().solution(12345)
+
+// MARK: - 정수 제곱근 판별
+
+let result = PositiveSquareRoot().solution(121)
 
 print(result)
