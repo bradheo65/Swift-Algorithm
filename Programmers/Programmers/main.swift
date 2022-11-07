@@ -41,6 +41,10 @@ import Foundation
 
 // MARK: - 정수 제곱근 판별
 
-let result = PositiveSquareRoot().solution(121)
+//let result = PositiveSquareRoot().solution(121)
+
+// MARK: - 나머지가 1이 되는 수 찾기
+
+let result = Rest1().solution(12)
 
 print(result)
