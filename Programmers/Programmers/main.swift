@@ -49,6 +49,10 @@ import Foundation
 
 // MARK: - 문자열 내 p와 y의 개수
 
-let result = solution("pPoooyY")
+// let result = PY().solution("pPoooyY")
+
+// MARK: - 하샤드의 수
+
+let result = HarshadNumber().solution(10)
 
 print(result)
