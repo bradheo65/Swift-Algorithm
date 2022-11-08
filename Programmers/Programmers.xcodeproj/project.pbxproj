@@ -11,6 +11,7 @@
 		A3186F6F290F90580008B83D /* Budget.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3186F6E290F90580008B83D /* Budget.swift */; };
 		A3186F71290F925C0008B83D /* Decimal.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3186F70290F925C0008B83D /* Decimal.swift */; };
 		A35C0F132918975E00926E76 /* Rest1 .swift in Sources */ = {isa = PBXBuildFile; fileRef = A35C0F122918975E00926E76 /* Rest1 .swift */; };
+		A35C0F15291A003100926E76 /* p와 y의 개수.swift in Sources */ = {isa = PBXBuildFile; fileRef = A35C0F14291A003100926E76 /* p와 y의 개수.swift */; };
 		A3B4377C2910AE9C00EBE14B /* Hamburger.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3B4377B2910AE9C00EBE14B /* Hamburger.swift */; };
 		A3FC93B3291201A200D09141 /* EvenAndOdd .swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC93B2291201A200D09141 /* EvenAndOdd .swift */; };
 		A3FC93B52912047800D09141 /* SumOfFactors .swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC93B42912047800D09141 /* SumOfFactors .swift */; };
@@ -38,6 +39,7 @@
 		A3186F6E290F90580008B83D /* Budget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Budget.swift; sourceTree = "<group>"; };
 		A3186F70290F925C0008B83D /* Decimal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Decimal.swift; sourceTree = "<group>"; };
 		A35C0F122918975E00926E76 /* Rest1 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rest1 .swift"; sourceTree = "<group>"; };
+		A35C0F14291A003100926E76 /* p와 y의 개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "p와 y의 개수.swift"; sourceTree = "<group>"; };
 		A3B4377B2910AE9C00EBE14B /* Hamburger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hamburger.swift; sourceTree = "<group>"; };
 		A3FC93B2291201A200D09141 /* EvenAndOdd .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EvenAndOdd .swift"; sourceTree = "<group>"; };
 		A3FC93B42912047800D09141 /* SumOfFactors .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SumOfFactors .swift"; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 				A3FC93BA29134EFE00D09141 /* Reverse.swift */,
 				A3FC93BC2913562400D09141 /* PositiveSquareRoot .swift */,
 				A35C0F122918975E00926E76 /* Rest1 .swift */,
+				A35C0F14291A003100926E76 /* p와 y의 개수.swift */,
 			);
 			path = Level1;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				A3186F71290F925C0008B83D /* Decimal.swift in Sources */,
 				A3FC93B3291201A200D09141 /* EvenAndOdd .swift in Sources */,
 				A3FC93B729120C2500D09141 /* Average.swift in Sources */,
+				A35C0F15291A003100926E76 /* p와 y의 개수.swift in Sources */,
 				A3FC93BB29134EFE00D09141 /* Reverse.swift in Sources */,
 				A3186F6F290F90580008B83D /* Budget.swift in Sources */,
 				A3186F67290F902E0008B83D /* main.swift in Sources */,

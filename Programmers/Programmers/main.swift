@@ -45,6 +45,10 @@ import Foundation
 
 // MARK: - 나머지가 1이 되는 수 찾기
 
-let result = Rest1().solution(12)
+// let result = Rest1().solution(12)
+
+// MARK: - 문자열 내 p와 y의 개수
+
+let result = solution("pPoooyY")
 
 print(result)
