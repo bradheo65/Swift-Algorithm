@@ -53,6 +53,8 @@ import Foundation
 
 // MARK: - 하샤드의 수
 
-let result = HarshadNumber().solution(10)
+//let result = HarshadNumber().solution(10)
+
+let result = PhoneNumberHide().solution("01021047965")
 
 print(result)

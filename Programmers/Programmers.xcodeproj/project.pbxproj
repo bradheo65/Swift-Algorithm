@@ -13,6 +13,7 @@
 		A35C0F132918975E00926E76 /* Rest1 .swift in Sources */ = {isa = PBXBuildFile; fileRef = A35C0F122918975E00926E76 /* Rest1 .swift */; };
 		A35C0F15291A003100926E76 /* p와 y의 개수.swift in Sources */ = {isa = PBXBuildFile; fileRef = A35C0F14291A003100926E76 /* p와 y의 개수.swift */; };
 		A35C0F17291A09C000926E76 /* 하샤드의 수.swift in Sources */ = {isa = PBXBuildFile; fileRef = A35C0F16291A09C000926E76 /* 하샤드의 수.swift */; };
+		A38FBC4C292312B1002E8B88 /* 핸드폰 번호 가리기.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38FBC4B292312B1002E8B88 /* 핸드폰 번호 가리기.swift */; };
 		A3B4377C2910AE9C00EBE14B /* Hamburger.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3B4377B2910AE9C00EBE14B /* Hamburger.swift */; };
 		A3FC93B3291201A200D09141 /* EvenAndOdd .swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC93B2291201A200D09141 /* EvenAndOdd .swift */; };
 		A3FC93B52912047800D09141 /* SumOfFactors .swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC93B42912047800D09141 /* SumOfFactors .swift */; };
@@ -42,6 +43,7 @@
 		A35C0F122918975E00926E76 /* Rest1 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rest1 .swift"; sourceTree = "<group>"; };
 		A35C0F14291A003100926E76 /* p와 y의 개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "p와 y의 개수.swift"; sourceTree = "<group>"; };
 		A35C0F16291A09C000926E76 /* 하샤드의 수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "하샤드의 수.swift"; sourceTree = "<group>"; };
+		A38FBC4B292312B1002E8B88 /* 핸드폰 번호 가리기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "핸드폰 번호 가리기.swift"; sourceTree = "<group>"; };
 		A3B4377B2910AE9C00EBE14B /* Hamburger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hamburger.swift; sourceTree = "<group>"; };
 		A3FC93B2291201A200D09141 /* EvenAndOdd .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EvenAndOdd .swift"; sourceTree = "<group>"; };
 		A3FC93B42912047800D09141 /* SumOfFactors .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SumOfFactors .swift"; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				A35C0F122918975E00926E76 /* Rest1 .swift */,
 				A35C0F14291A003100926E76 /* p와 y의 개수.swift */,
 				A35C0F16291A09C000926E76 /* 하샤드의 수.swift */,
+				A38FBC4B292312B1002E8B88 /* 핸드폰 번호 가리기.swift */,
 			);
 			path = Level1;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			files = (
 				A35C0F132918975E00926E76 /* Rest1 .swift in Sources */,
 				A35C0F17291A09C000926E76 /* 하샤드의 수.swift in Sources */,
+				A38FBC4C292312B1002E8B88 /* 핸드폰 번호 가리기.swift in Sources */,
 				A3FC93BD2913562400D09141 /* PositiveSquareRoot .swift in Sources */,
 				A3FC93B92912412400D09141 /* AddDigits .swift in Sources */,
 				A3FC93B52912047800D09141 /* SumOfFactors .swift in Sources */,
