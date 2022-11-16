@@ -53,8 +53,14 @@ import Foundation
 
 // MARK: - 하샤드의 수
 
-//let result = HarshadNumber().solution(10)
+// let result = HarshadNumber().solution(10)
 
-let result = PhoneNumberHide().solution("01021047965")
+// MARK: - 핸드폰 번호 가리기
+
+// let result = PhoneNumberHide().solution("01021047965")
+
+// MARK: - 숫자 문자열과 영단어
+
+let result = StringOfNumbersAndWords().solution("23four5six7")
 
 print(result)
