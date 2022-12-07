@@ -61,6 +61,10 @@ import Foundation
 
 // MARK: - 숫자 문자열과 영단어
 
-let result = StringOfNumbersAndWords().solution("23four5six7")
+//let result = StringOfNumbersAndWords().solution("23four5six7")
+
+// MARK: - 최댓값과 최솟값
+
+let result = MaximumAndMinimum().solution("-1 -2 -3 -4")
 
 print(result)
