@@ -16,6 +16,7 @@
 		A38FBC4C292312B1002E8B88 /* 핸드폰 번호 가리기.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38FBC4B292312B1002E8B88 /* 핸드폰 번호 가리기.swift */; };
 		A38FBC4E29247A2B002E8B88 /* 숫자 문자열과 영단어.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38FBC4D29247A2B002E8B88 /* 숫자 문자열과 영단어.swift */; };
 		A393133A29404D86005E957D /* 최댓값과 최솟값.swift in Sources */ = {isa = PBXBuildFile; fileRef = A393133929404D86005E957D /* 최댓값과 최솟값.swift */; };
+		A393133C29405D7D005E957D /* JadenCase 문자열 만들기 .swift in Sources */ = {isa = PBXBuildFile; fileRef = A393133B29405D7D005E957D /* JadenCase 문자열 만들기 .swift */; };
 		A3B4377C2910AE9C00EBE14B /* Hamburger.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3B4377B2910AE9C00EBE14B /* Hamburger.swift */; };
 		A3FC93B3291201A200D09141 /* EvenAndOdd .swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC93B2291201A200D09141 /* EvenAndOdd .swift */; };
 		A3FC93B52912047800D09141 /* SumOfFactors .swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FC93B42912047800D09141 /* SumOfFactors .swift */; };
@@ -48,6 +49,7 @@
 		A38FBC4B292312B1002E8B88 /* 핸드폰 번호 가리기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "핸드폰 번호 가리기.swift"; sourceTree = "<group>"; };
 		A38FBC4D29247A2B002E8B88 /* 숫자 문자열과 영단어.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "숫자 문자열과 영단어.swift"; sourceTree = "<group>"; };
 		A393133929404D86005E957D /* 최댓값과 최솟값.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최댓값과 최솟값.swift"; sourceTree = "<group>"; };
+		A393133B29405D7D005E957D /* JadenCase 문자열 만들기 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "JadenCase 문자열 만들기 .swift"; sourceTree = "<group>"; };
 		A3B4377B2910AE9C00EBE14B /* Hamburger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hamburger.swift; sourceTree = "<group>"; };
 		A3FC93B2291201A200D09141 /* EvenAndOdd .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EvenAndOdd .swift"; sourceTree = "<group>"; };
 		A3FC93B42912047800D09141 /* SumOfFactors .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SumOfFactors .swift"; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 			isa = PBXGroup;
 			children = (
 				A393133929404D86005E957D /* 최댓값과 최솟값.swift */,
+				A393133B29405D7D005E957D /* JadenCase 문자열 만들기 .swift */,
 			);
 			path = Level2;
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 				A35C0F15291A003100926E76 /* p와 y의 개수.swift in Sources */,
 				A3FC93BB29134EFE00D09141 /* Reverse.swift in Sources */,
 				A3186F6F290F90580008B83D /* Budget.swift in Sources */,
+				A393133C29405D7D005E957D /* JadenCase 문자열 만들기 .swift in Sources */,
 				A3186F67290F902E0008B83D /* main.swift in Sources */,
 				A3B4377C2910AE9C00EBE14B /* Hamburger.swift in Sources */,
 				A393133A29404D86005E957D /* 최댓값과 최솟값.swift in Sources */,

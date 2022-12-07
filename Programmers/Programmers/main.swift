@@ -65,6 +65,10 @@ import Foundation
 
 // MARK: - 최댓값과 최솟값
 
-let result = MaximumAndMinimum().solution("-1 -2 -3 -4")
+//let result = MaximumAndMinimum().solution("-1 -2 -3 -4")
+
+// MARK: - JadenCase 문자열
+
+let result = JadenCase().solution("for the last week")
 
 print(result)
