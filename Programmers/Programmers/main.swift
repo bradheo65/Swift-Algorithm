@@ -69,6 +69,10 @@ import Foundation
 
 // MARK: - JadenCase 문자열
 
-let result = JadenCase().solution("for the last week")
+// let result = JadenCase().solution("for the last week")
+
+// MARK: - 가장 가까운 같은 글자
+
+let result = CloserString().solution("bananabbb")
 
 print(result)
