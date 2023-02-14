@@ -73,6 +73,8 @@ import Foundation
 
 // MARK: - 가장 가까운 같은 글자
 
-let result = CloserString().solution("bananabbb")
+//let result = CloserString().solution("bananabbb")
 
-print(result)
+// MARK: - 크기가 작은 부분 문자열
+
+let reuslt = SmallSubstring().solution("3141592", "271")
